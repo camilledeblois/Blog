@@ -4,7 +4,7 @@
 
 Une application de blog où les utilisateurs peuvent créer des articles, les commenter, leur attribuer à une catégorie et liker les articles.
 
-## Les modèles : ##
+## Modèles : ##
 
 *  User
 *  Article
