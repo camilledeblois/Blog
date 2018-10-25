@@ -1,4 +1,4 @@
-# The Hacking Project - Semaine 4 - Mercredi #
+# The Hacking Project - Semaine 4 - Jeudi #
 
 ## Projet : Doctolib ##
 
